@@ -256,6 +256,33 @@
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
     <Content Include="Areas\HelpPage\Views\_ViewStart.cshtml" />
+    <Content Include="Assets\2_2_basic_typography.html" />
+    <Content Include="Assets\2_3_text_alignment_display.html" />
+    <Content Include="Assets\2_4_floats_position.html" />
+    <Content Include="Assets\2_5_colors_background.html" />
+    <Content Include="Assets\2_6_spacing.html" />
+    <Content Include="Assets\2_7_sizing.html" />
+    <Content Include="Assets\2_8_breakpoints.html" />
+    <Content Include="Assets\3_10_media_object.html" />
+    <Content Include="Assets\3_11_jumbotron.html" />
+    <Content Include="Assets\3_2_buttons.html" />
+    <Content Include="Assets\3_3_navbar.html" />
+    <Content Include="Assets\3_4_list_groups_badges.html" />
+    <Content Include="Assets\3_5_forms.html" />
+    <Content Include="Assets\3_6_input_groups.html" />
+    <Content Include="Assets\3_7_alerts_progress.html" />
+    <Content Include="Assets\3_8_tables_pagination.html" />
+    <Content Include="Assets\3_9_cards.html" />
+    <Content Include="Assets\4_2_grid_system.html" />
+    <Content Include="Assets\4_3_grid_alignment.html" />
+    <Content Include="Assets\4_4_flexbox.html" />
+    <Content Include="Assets\4_5_auto_margins_wrapping_order.html" />
+    <Content Include="Assets\5_2_carousel.html" />
+    <Content Include="Assets\5_3_collapse.html" />
+    <Content Include="Assets\5_4_tooltips.html" />
+    <Content Include="Assets\5_5_popovers.html" />
+    <Content Include="Assets\5_6_modals.html" />
+    <Content Include="Assets\5_7_scrollspy.html" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
@@ -343,6 +370,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Assets\JS\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
